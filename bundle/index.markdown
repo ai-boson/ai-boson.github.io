@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="assets/400by400.png" alt="drawing" width="250"/> <img src="assets/resonance256.png" alt="drawing" width="250"/> <img src="assets/1flux.png" alt="drawing" width="250"/> 
