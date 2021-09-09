@@ -28,7 +28,7 @@ twitter_username:
 github_username:  ai-boson
 
 # Build settings
-theme: Cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
